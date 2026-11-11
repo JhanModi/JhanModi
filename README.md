@@ -1,4 +1,4 @@
-# Hey, I'm Jhan Modi! 👋
+# Hey, I'm Jhan Modi!
 
 **Software Engineer | Backend & Full-Stack Development | M.S. Computer Science @ Northeastern University**
 
